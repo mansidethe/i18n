@@ -1,23 +1,20 @@
 {
    "en":{
-    "welcomemessage":"Welcom",
-    "normalmessage":"We hope you enjoy learning react",
+    "welcomemessage":"Welcome to Internationalization I18n",
+    "normalmessage":"Internationalization (i18n) is the process of preparing software to support local languages and cultural settings for other markets. ",
     "greetingmessage":"have a great day",
-    "endmessage":"bye",
-    "userstack":" <studentCount> We hope you enjoy learning react"
+    "userstack":" <studentCount> Software Internationalization (i18n) Best Practices"
    },
    "mr":{
-    "welcomemessage":"स्वागत आहे",
-    "normalmessage":"आम्हाला आशा आहे की तुम्हाला प्रतिक्रिया शिकायला आवडेल",
+    "welcomemessage":"आंतरराष्ट्रीयकरण I18n मध्ये आपले स्वागत आहे",
+    "normalmessage":"आंतरराष्ट्रीयीकरण (i18n) ही इतर बाजारपेठांसाठी स्थानिक भाषा आणि सांस्कृतिक सेटिंग्जला समर्थन देण्यासाठी सॉफ्टवेअर तयार करण्याची प्रक्रिया आहे.",
     "greetingmessage":"तुमचा दिवस चांगला जावो",
-    "endmessage":"बाय",
-    "userstack":" <studentCount> आम्‍हाला आशा आहे की तुम्‍हाला शिकण्‍याची प्रतिक्रिया आवडेल"
+    "userstack":" <studentCount> सॉफ्टवेअर आंतरराष्ट्रीयकरण (i18n) सर्वोत्तम पद्धती"
    },
    "hi":{
-    "welcomemessage":"स्वागत है",
-    "normalmessage":"हमें आशा है कि आपको प्रतिक्रिया सीखने में आनंद आएगा",
+    "welcomemessage":"अंतर्राष्ट्रीयकरण I18n में आपका स्वागत है",
+    "normalmessage":"अंतर्राष्ट्रीयकरण (i18n) अन्य बाजारों के लिए स्थानीय भाषाओं और सांस्कृतिक सेटिंग्स का समर्थन करने के लिए सॉफ्टवेयर तैयार करने की प्रक्रिया है।",
     "greetingmessage":"आपका दिन अच्छा रहे",
-    "endmessage":"अलविदा",
-    "userstack":"<studentCount> हम आशा करते हैं कि आपको प्रतिक्रिया सीखने में आनंद आएगा"
+    "userstack":"<studentCount> सॉफ्टवेयर अंतर्राष्ट्रीयकरण (i18n) सर्वोत्तम प्रथाएँ"
    } 
 }
